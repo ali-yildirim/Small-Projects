@@ -31,12 +31,6 @@ def binary_search(l, target, low = None, high = None):
 
 if __name__ == '__main__':
 
-    # l= [1, 3, 5, 10, 12]
-    # target = 10
-    #
-    # print(regular_search(l, target))
-    # print(binary_search(l, target))
-
     length = 10000
 
     sorted_list = set()
