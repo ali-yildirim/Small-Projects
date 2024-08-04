@@ -1,2 +1,2 @@
 # Projects
-This repository includes some of the Python projects that I completed.
+This repository includes some of my Python projects.
